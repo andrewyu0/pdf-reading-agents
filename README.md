@@ -6,6 +6,8 @@ tweet context https://x.com/andrewcyu/status/1874029152707502393
 
 ## LOG
 
+230a pickup 2025-01-01 spec i want to do this normal git flow not replit/v0
+
 140p likely not pushing full b4 nye (eve coming soon) but will be project_1 for week_1 2025
 
 640a thinking is logging - minds eye - writing it out in md 
